@@ -177,7 +177,7 @@ ollama pull llama2
 ## 🤝 Contributing
 
 ### **Development Team**
-- **ROHIT CHOUBEY** - Lead Developer & ML Engineer
+- **ROHIT CHOUBEY MAHANTO** - Lead Developer & ML Engineer
 - **PIYUSH MONDAL** - Backend Developer & Data Analyst
 - **ANURRET KASYAPI** - Frontend Developer & UI/UX Designer
 - **DAMODAR GHOSH** - AI Integration & System Architecture
